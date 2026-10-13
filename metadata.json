@@ -1,0 +1,8 @@
+{
+  "name": "Remix BTH Chat",
+  "description": "Offline Peer-to-Peer Bluetooth \u0026 Wi-Fi Direct Chat, Voice Notes, High-Speed Large File Sharing, and P2P Audio/Video Calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

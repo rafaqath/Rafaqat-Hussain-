@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BTH Chat</string>
+    <string name="tagline">P2P Bluetooth &amp; High-Speed Mesh</string>
+    <string name="tab_chats">Chats</string>
+    <string name="tab_groups">Groups</string>
+    <string name="tab_calls">Calls</string>
+    <string name="tab_radar">Radar</string>
+    <string name="tab_transfers">Transfers</string>
+
+    <string name="action_send">Send</string>
+    <string name="action_record_voice">Voice Note</string>
+    <string name="action_attach">Attach</string>
+    <string name="action_call">Voice Call</string>
+    <string name="action_video_call">Video Call</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_scan">Scan Nearby</string>
+    <string name="action_switch_lang">Language</string>
+    <string name="action_test_mesh">Test Mesh Sandbox</string>
+
+    <string name="status_connected">Connected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_scanning">Scanning for nearby devices...</string>
+
+    <string name="file_transfer_title">Lightning File Sharing</string>
+    <string name="file_transfer_desc">Transfer 25MB, 50MB, 100MB+ in seconds offline</string>
+</resources>
